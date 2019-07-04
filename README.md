@@ -6,3 +6,6 @@ master fifth commit
 branch1 first commit
 branch3 first commit
 branch3 second commit
+branch2 first commit
+branch2 second commit
+branch3 third commit
