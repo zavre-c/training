@@ -12,3 +12,5 @@ branch3 third commit
 bbranch4 first commit
 branch4 second commit
 branch4 third commit
+master stash commit
+last commit
